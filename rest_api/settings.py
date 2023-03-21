@@ -50,7 +50,7 @@ INSTALLED_APPS = [
 ]
 
 CORS_ORIGIN_WHITELIST = [
-    "http://localhost:3000",
+    "http://localhost:3000", 'https://next-js-todos-d0akh5llq-hata-tomoyuki.vercel.app'
 ]
 
 SIMPLE_JWT = {
